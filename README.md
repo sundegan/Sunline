@@ -1,7 +1,2 @@
-# Theme Name
-
-## Features
-
-## Installation
-
-## Configuration
+# Sunline
+A minimal and modern Hugo theme built with Tailwind CSS.
